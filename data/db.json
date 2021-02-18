@@ -1,0 +1,41 @@
+{
+	"notes": [
+		{
+			"id": 1,
+			"titleNote": "Barang-barang untuk dibawa liburan",
+			"tasks": [
+				{
+					"id": 1,
+					"strTask": "Baju Renang",
+					"strDescription": "Warna hitam 1, kuning 2"
+				},
+				{
+					"id": 2,
+					"strTask": "Selimut kucing",
+					"strDescription": "Yang kecil aja"
+				}
+			]
+		},
+		{
+			"id": 2,
+			"titleNote": "Daftar Belanja",
+			"tasks": [
+				{
+					"id": 1,
+					"strTask": "Bayam merah",
+					"strDescription": "2 ikat beli di tempat bu Sri"
+				},
+				{
+					"id": 2,
+					"strTask": "Whiskas",
+					"strDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Et odio pellentesque diam volutpat commodo. Eu mi bibendum neque egestas congue. Ut ornare lectus sit amet est placerat in egestas. Faucibus nisl tincidunt eget nullam non. Id diam maecenas ultricies mi eget mauris pharetra et ultrices. At lectus urna duis convallis. Facilisis gravida neque convallis a cras. Fames ac turpis egestas sed tempus urna et pharetra pharetra. Rhoncus aenean vel elit scelerisque mauris."
+				}
+			]
+		},
+		{
+			"id": 3,
+			"titleNote": "Untitled",
+			"tasks": []
+		}
+	]
+}
